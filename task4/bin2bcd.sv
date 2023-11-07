@@ -1,4 +1,4 @@
-// Design Name : bin2bcd
+Lab1-Counter/task3/vbuddy.cpp Lab1-Counter/task3/vbuddy.cfg Lab1-Counter/task3/doit.sh Lab1-Counter/task3/counter.sv Lab1-Counter/task3/counter_tb.cpp// Design Name : bin2bcd
 // File Name : bin2bcd.v
 // Function : convert 8-bit binary number in to three BCD digits
 // Author:  Peter Cheung
